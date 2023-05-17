@@ -1,5 +1,7 @@
 # EEE380 Individual Design Project - A real-time fall detection algorithm using a single webcam
 
+![System Diagram](schematic.png)
+
 Video demo - [Fall (self-recorded)](self_rec.mp4) & [Non-fall (URFD)](urfd.mp4)
 
 Dataset - [UR Fall Detection Dataset](http://fenix.ur.edu.pl/mkepski/ds/uf.html)
